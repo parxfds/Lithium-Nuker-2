@@ -22,7 +22,7 @@ using System.Reflection;
  *  - verlox 2.14.2022
  * */
 
-namespace LithiumNukerV2
+namespace LunaNuker
 {
     internal class Entry
     {
@@ -89,17 +89,17 @@ namespace LithiumNukerV2
 
             #region Setting up the UI
             var props = new Core.StartupProperties { 
-                MOTD = "fuck skids | verlox & russian heavy on top", 
+                MOTD = "fastest deletion of servers.", 
                 ColorRotation = 260, 
                 SilentStart = true, 
                 LogoString = Settings.Logo,
                 DebugMode = Settings.Debug, 
                 Author = new Core.StartupAuthorProperties { 
-                    Url = "verlox.cc & russianheavy.xyz", 
-                    Name = "verlox & russian heavy"
+                    Url = "discord.gg/Lunaaa", 
+                    Name = "Luna"
                 }, 
                 Title = new Core.StartupConsoleTitleProperties { 
-                    Text = "Lithium Nuker V2"
+                    Text = "LunaNuker"
                 } 
             };
             core.Start(props);
