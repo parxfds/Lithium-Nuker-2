@@ -8,7 +8,7 @@ using LithiumNukerV2;
 // Nuget
 using Newtonsoft.Json;
 
-namespace LithiumCore
+namespace LunaNuker
 {
     public class Bot
     {
