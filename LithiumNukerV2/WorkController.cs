@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LithiumNukerV2
+namespace LunaNuker
 {
     public class WorkController
     {
