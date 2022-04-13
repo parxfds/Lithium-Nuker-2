@@ -16,7 +16,7 @@ using Veylib.CLIUI;
 // Nuget
 using Newtonsoft.Json;
 
-namespace LithiumCore
+namespace LunaNuker
 {
     public class Users
     {
