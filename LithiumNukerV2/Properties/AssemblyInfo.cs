@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LithiumNukerV2")]
-[assembly: AssemblyDescription("Discord nuker by verlox & russian heavy")]
+[assembly: AssemblyTitle("LunaNuker")]
+[assembly: AssemblyDescription("Made by Income#0420")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("LithiumNukerV2")]
-[assembly: AssemblyCopyright("Copyright © Lithium 2021")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
