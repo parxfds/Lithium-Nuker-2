@@ -16,7 +16,7 @@ using Veylib.Authentication;
 using Newtonsoft.Json;
 using System.Reflection;
 
-namespace LithiumNukerV2
+namespace LunaNuker
 {
     public class LithiumShared
     {
