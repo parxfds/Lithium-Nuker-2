@@ -11,7 +11,7 @@ using System.Diagnostics;
 using Veylib.CLIUI;
 using LithiumCore;
 
-namespace LithiumNukerV2
+namespace LunaNuker
 {
     internal class Picker
     {
@@ -196,7 +196,7 @@ namespace LithiumNukerV2
 
             // Auto fill content
             if (content == "")
-                content = "@everyone discord.gg/lith";
+                content = "@everyone discord.gg/Lunaaa";
 
             // Spam
             new Thread(() => { webhooks.Spam(Settings.WebhookName, Settings.AvatarUrl, content, amnt, scan); }).Start();
@@ -234,7 +234,7 @@ namespace LithiumNukerV2
 
             // Autofill name as this if blank
             if (name == "")
-                name = "ran by lithium";
+                name = "ran by luna";
 
             // Spam
             new Thread(() => { channels.Spam(name, (Channels.Type)Enum.Parse(typeof(Channels.Type), type), amnt); }).Start();
