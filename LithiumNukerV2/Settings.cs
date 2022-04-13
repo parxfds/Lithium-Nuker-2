@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 // All of the settings can be changed from here
 
-namespace LithiumNukerV2
+namespace LunaNuker
 {
     public class Settings
     {
